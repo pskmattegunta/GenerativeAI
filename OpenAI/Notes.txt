@@ -1,0 +1,6 @@
+OPENAI_API_KEY=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
+
+https://platform.openai.com/api-keys
+https://platform.openai.com/docs/tutorials
+https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers
+https://learn.deeplearning.ai/my/learnings
